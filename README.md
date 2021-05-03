@@ -12,4 +12,4 @@
 | Number      | Content  | 
 | :------------- | :----------: | 
 |     1 | [summery](https://bayan-hmaidy98.github.io/Summery/)   | 
-| 2   | [MindsetGrowth](https://bayan-hmaidy98.github.io/reading-notes/) | 
+| 2   | [MindsetGrowth](MindsetGrowth.md) | 
