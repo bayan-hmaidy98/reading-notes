@@ -12,4 +12,4 @@
 | Number      | Content  | 
 | :------------- | :----------: | 
 |     1 | [summery](https://bayan-hmaidy98.github.io/Summery/)   | 
-| 2   | [MindsetGrowth](MindsetGrowth.md) | 
+| 2   | [MindsetGrowth](/Mindset.md) | 
