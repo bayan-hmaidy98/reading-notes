@@ -9,8 +9,8 @@
  
   
 
-| Number      | Content  | 
+| Name      | Content  | 
 | :------------- | :----------: | 
 | read01 | [summery](https://bayan-hmaidy98.github.io/Summery/)   | 
-| read02 | [MindsetGrowth](/Mindset.md) | 
-| read03 | [CSS]() |
+| read02 | [MindsetGrowth](https://bayan-hmaidy98.github.io/reading-notes/Mindset) | 
+| read03 | [CSS](https://bayan-hmaidy98.github.io/reading-notes/CSS) |
