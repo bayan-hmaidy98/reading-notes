@@ -11,6 +11,8 @@
 
 | Name      | Content  | 
 | :------------- | :----------: | 
-| read01 | [summery](https://bayan-hmaidy98.github.io/Summery/)   | 
-| read02 | [MindsetGrowth](https://bayan-hmaidy98.github.io/reading-notes/Mindset) | 
+| read01 | [Learning MD](https://bayan-hmaidy98.github.io/reading-notes/LearningMD) |
+| read02 | [Revisions and the Cloud](https://bayan-hmaidy98.github.io/Summery/)   | 
+| Lab: 01b | [Mindset Growth](https://bayan-hmaidy98.github.io/reading-notes/Mindset) | 
+| Read: 03 | [Structure web pages with HTML](https://bayan-hmaidy98.github.io/reading-notes/Webpages) | 
 | read03 | [CSS](https://bayan-hmaidy98.github.io/reading-notes/CSS) |
