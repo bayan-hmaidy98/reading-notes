@@ -19,3 +19,7 @@
 | lab 03b | [Design web pages with CSS](https://bayan-hmaidy98.github.io/Fusha23/) |
 | lab 03b | [Design web pages with HTML](https://bayan-hmaidy98.github.io/Fusha23/) |
 | Lab 04 | [Activate web pages with JavaScript](https://bayan-hmaidy98.github.io/Fusha23/) |
+| read 04a | [Dynamic web pages with JavaScript](https://bayan-hmaidy98.github.io/reading-notes/JavaScript) |
+
+
+ 
