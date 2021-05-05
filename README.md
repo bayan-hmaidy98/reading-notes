@@ -16,3 +16,6 @@
 | Lab01b | [Mindset Growth](https://bayan-hmaidy98.github.io/reading-notes/Mindset) | 
 | Read03 | [Structure web pages with HTML](https://bayan-hmaidy98.github.io/reading-notes/Webpages) | 
 | read03b | [CSS](https://bayan-hmaidy98.github.io/reading-notes/CSS) |
+| lab 03b | [Design web pages with CSS](https://bayan-hmaidy98.github.io/Fusha23/) |
+| lab 03b | [Design web pages with HTML](https://bayan-hmaidy98.github.io/Fusha23/) |
+| Lab 04 | [Activate web pages with JavaScript](https://bayan-hmaidy98.github.io/Fusha23/) |
