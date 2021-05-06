@@ -20,10 +20,8 @@
 | lab 03b | [Design web pages with HTML](https://bayan-hmaidy98.github.io/Fusha23/) |
 | Lab 04 | [Activate web pages with JavaScript](https://bayan-hmaidy98.github.io/Fusha23/) |
 | read 04a | [Dynamic web pages with JavaScript](https://bayan-hmaidy98.github.io/reading-notes/JavaScript) |
-<<<<<<< HEAD
 | Lab 05 | [Operators and Loops](https://bayan-hmaidy98.github.io/Fusha23/) |
-=======
 
->>>>>>> e0f7597a6b140b93f1350e09766b038b93830195
+
 
  
