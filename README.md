@@ -7,7 +7,7 @@
  If you're intersted in my  content here is the updated pages I made  
 
  
-  
+  ### Here's the reading and labs in course 102
 
 | Name      | Content  | 
 | :------------- | :----------: | 
@@ -24,5 +24,21 @@
 | Lab 05 | [Operators and Loops](https://bayan-hmaidy98.github.io/Fusha23/) |
 
 
-
- 
+## 201 Course 
+| Name     | Conntent |
+| ----------- | ----------- |
+| read 01     |    [Introductory HTML and JavaScript]()    |
+| read 02     |   [HTML Text, CSS Introduction, and Basic JavaScript Instructions]()    |
+| read 03     |       |
+| read 04     |       |
+| read 05     |       |
+| read 06     |       |
+| read 07     |       |
+| read 08     |       |
+| read 09     |       |
+| read 10     |       |
+| read 11     |       |
+| read 12     |       |
+| read 13     |       |
+| read 14     |       |
+| read 15     |       | 
