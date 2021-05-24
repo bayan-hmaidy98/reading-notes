@@ -28,7 +28,7 @@
 | Name     | Conntent |
 | ----------- | ----------- |
 | read 01     |    [Introductory HTML and JavaScript]()    |
-| read 02     |   [HTML Text, CSS Introduction, and Basic JavaScript Instructions]()    |
+| read 02     |   [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://bayan-hmaidy98.github.io/reading-notes/class02)    |
 | read 03     |       |
 | read 04     |       |
 | read 05     |       |
