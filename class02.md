@@ -31,8 +31,8 @@ To make the text writing in the website more related to the content,`<ins> & <de
 
 From duckett book, here is an example to illustate the above tags: 
 
-![Example](C:/Users/DELL/Pictures/Screenshots/HTMLcode.jpg)
-![result](C:/Users/DELL/Pictures/Screenshots/HTMLresult.jpg)
+![Example](HTMLcode.jpg)
+![result](HTMLresult.jpg)
 
 # CSS 
 
