@@ -22,7 +22,6 @@ in order to remove any editings come from word processers, copy the wanted text,
 
 Semantic Markup includes the tags that have a meaning and does not affect the structure of fthe website directly, but to add more information to the wanted page. 
 
-(Add a picture of some semantic markup)
 
 `<dfn>` is used to to **define** a new word for the first time in the website. Some browsers show it as italic text and some don't. 
 
@@ -32,12 +31,14 @@ To make the text writing in the website more related to the content,`<ins> & <de
 
 From duckett book, here is an example to illustate the above tags: 
 
-![Example](C:/Users/DELL/Pictures/Screenshots/CSS.jpg)
+![Example](C:/Users/DELL/Pictures/Screenshots/HTMLcode.jpg)
+![result](C:/Users/DELL/Pictures/Screenshots/HTMLresult.jpg)
 
+# CSS 
 
 CSS is used to design the structure of the website will look like. We can style boxes appearance (width and Height, borders, background color, and postioning the browser window), text appearance (size, color, bold, italic...) and more specific elements. 
 
-How to write css code?
+## How to write css code?
 
 1. External CSS and then to link the css file with the html, we use <link> as illustrated bellow: 
 <link href="css/styles.css" type="text/css" 
@@ -51,31 +52,30 @@ It is written withen the body of the html file.
 
 If there is more than one element that have the same type, and you want to specilize one of them with some properaties, we use id. In the other hand, if there are a group that is wanted to have the same proparities, we use class. 
 
-JavaScript
+# JavaScript
 
 JS code is called a script. A script is a series of instructions that a computer can follow one-by-one.  Each individual instruction or step is known as a statement. Statements should end with a semicolon.
 
 Also to illustate your work, you can make some notes to help you progress your work. And there are 2 ways to wrie comments: 
-1. Single line comment using // 
-2. Multi-line comment using /* Your comment */
+1. Single line comment using `//` 
+2. Multi-line comment using `/* Your comment */`
 
-How can we store our data?
+## How can we store our data?
 Using variables. We can store within them (strings, boolean, numbers..). Note that the value inside them can bechanged as we walk through the script. 
 
-To declare variables 
+### To declare variables 
 ` var quentityName; `. It's is possible to give a value through the decleration ` var quentityName = value; `
 
-YOU CAN NOT use (-), (.), number at the beginning, or reserved keywords in naming the variables. 
+**YOU CAN NOT use** (-), (.), number at the beginning, or reserved keywords in naming the variables. 
 
 Arrays 
 Arrays are helpful when dealing with a list or set of values that are related togather. Firt of all, you can name arrays like we name the variables.
 
 To declare the array, here is the syntax: 
-var arrayName = new Array ('element1', 'element2', 'element3'....)
+`var arrayName = new Array ('element1', 'element2', 'element3'....)`
 
-Expressions and athimetic operators that are used in JS are described here.
 
-Also you can have an overview for loops and descisions. 
+Also you can have an overview for [loops](/home/bayan_hmaidy/projects/reading-notes/Loops.md). 
 
 
 
