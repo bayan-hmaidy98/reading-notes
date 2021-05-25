@@ -23,8 +23,7 @@ The strucure of any website aims to make it readable to the targeted ausiance. S
 
 `Tags act like containers. They tell you something about the information that lies between their opening and closing tags.` Tags are usedin HTML to tell the browser something. Inside **the opening tag**, we can add **attributes**, which provides more information about the content of an element.  If you want to see more about tags, [click here](https://bayan-hmaidy98.github.io/reading-notes/class02)
 
-To know more about text editors, check the [link.]
-(https://bayan-hmaidy98.github.io/reading-notes/TheCommandLine)
+To know more about text editors, check the [link.](https://bayan-hmaidy98.github.io/reading-notes/TheCommandLine)
 
 # Code in a Content Management System
 
@@ -39,34 +38,34 @@ allow you to edit the template files. `
 For HTML, CSS and JS, they all have comments in order to make the code easier to be read, someone wanted to have a look at the code or even if you want to disable part of the code! To add a comment in HTML `<-- comment goes here -->. **Don't worry,** your comment will not visible to the user, only for who digs through the source code. 
 
 ## Block Elements and inline elements
-Text that appears in new line usese block level elements, like: <h1>, <p>, <ul>, and <li>.
+Text that appears in new line uses block level elements, like: `<h1>, <p>, <ul>, and <li>.`
 
 Text that have attributes in it and all gothered in the same line uses inline elements. Examples of inline elements are 
-<a>, <b>, <em>, and <img>
+`<a>, <b>, <em>, and <img>`
 
-## <div tag>
-The <div> tag allows you to sort the structure of the website and make the code more readable. For example, you might create a <div> element to contain all of the elements for the header of your site (the logo and the 
+## `<div tag>`
+The `<div>` tag allows you to sort the structure of the website and make the code more readable. For example, you might create a <div> element to contain all of the elements for the header of your site (the logo and the 
 navigation), or you might create a <div> element to contain 
 comments from visitors.
 
-## <span>
-The span tag works like <div> tag, and we can use it if:
+## `<span>`
+The span tag works like `<div>` tag, and we can use it if:
 1. We want to differentiate it from its surrounding text.
 2. We want to control the appearance of the content of 
 these elements using CSS.
 
-<iframe>
+## `<iframe>`
 An iframe is like a little window that has been cut into your 
-page — and in that window you can see another page. The term iframe is an abbreviation of inline frame. The most famous example for <iframe> tag is GoogleMaps.
+page — and in that window you can see another page. The term iframe is an abbreviation of inline frame. The most famous example for `<iframe>` tag is GoogleMaps.
 
-## <meta> tag
-Inside the <head> tag, any used tag does not affect the appeance of the page and it is not visible to the users. It is created to tell information about the page. One of the used tags in <head> is **<meta>.** The <meta> element is an empty element carries an attribute inside it and don't have a closing tag.
+## `<meta> tag`
+Inside the `<head>` tag, any used tag does not affect the appeance of the page and it is not visible to the users. It is created to tell information about the page. One of the used tags in `<head>` is `<meta>.` The `<meta>` element is an empty element carries an attribute inside it and don't have a closing tag.
 
-The <nav> element is used to contain the major avigational blocks on the site such as the primary site navigation. Note that <nav> tag is **non-semantic** tag. 
+The `<nav>` element is used to contain the major avigational blocks on the site such as the primary site navigation. Note that `<nav>` tag is **non-semantic** tag. 
 
-## <section> tag 
+## `<section> tag` 
 
-The <section> element groups related content together, and typically each section would have its own heading. Because the <section> element groups related items together, it may contain several distinct <article> elements that have a common theme or purpose. 
+The `<section>` element groups related content together, and typically each section would have its own heading. Because the `<section>` element groups related items together, it may contain several distinct `<article>` elements that have a common theme or purpose. 
 
 #### Proccess and Design
 
