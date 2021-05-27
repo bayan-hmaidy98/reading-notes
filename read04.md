@@ -7,7 +7,7 @@ Links from one website to another.
 Links that start up your email program and address a new email to someone.
 
 ### Links syntax:
-![syntax](img/synta.png)
+![syntax](img/syntax.png)
 
 **Note:** It is important to to create a clear link text, It will incourage the user to visit the page and look through it.
 
