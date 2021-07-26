@@ -2,7 +2,7 @@
 
 # reading-notes
 
- I'm **Bayan** and I'm 23 years old. I have graduated with  bachelor degree in electrical engineering two months ago, and in order to improve my career bath, I have attended this scholarship which is a great opportunity to people like me who had a zero experience in programming and software development. 
+ I'm **Bayan** and I'm *23* years old. I have graduated with  bachelor degree in electrical engineering two months ago, and in order to improve my career bath, I have attended this scholarship which is a great opportunity to people like me who had a zero experience in programming and software development. 
 
  If you're intersted in my  content here is the updated pages I made  
 
@@ -43,3 +43,23 @@
 | read 13     |       |
 | read 14     |       |
 | read 15     |       | 
+
+## 301 Course
+
+| Name     | Conntent |
+| ----------- | ----------- |
+| read 01     |    [Components and props](amman301-d26\read01.md)    |
+| read 02     |       |
+| read 03     |       |
+| read 04     |       |
+| read 05     |       |
+| read 06     |       |
+| read 07     |       |
+| read 08     |       |
+| read 09     |       |
+| read 10     |       |
+| read 11     |       |
+| read 12     |       |
+| read 13     |       |
+| read 14     |       |
+| read 15     |       |
