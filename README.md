@@ -30,19 +30,16 @@
 | ----------- | ----------- |
 | read 01     |    [Introductory HTML and JavaScript]()    |
 | read 02     |   [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://bayan-hmaidy98.github.io/reading-notes/class02)    |
-| read 03     |       |
-| read 04     |       |
-| read 05     |       |
-| read 06     |       |
-| read 07     |       |
-| read 08     |       |
-| read 09     |       |
-| read 10     |       |
-| read 11     |       |
-| read 12     |       |
-| read 13     |       |
-| read 14     |       |
-| read 15     |       | 
+| read 03     |  [Lists](read03.md)     |
+| read 04     |  [Links](read04.md)     |
+| read 07     |  [Domain Model](read07.md)     |
+| read 08     |  [Layouts](read08.md)    |
+| read 09     |  [Forms](read09.md)     |
+| read 10     |  [Execution context](read10.md)   |
+| read 11     |  [Images](read11.md)     |
+| read 12     |  [Charts](read12.md)     |
+| read 14a     |  [Transformers](read14a.md)     |
+| read 14b     |  [What Google Learned From Its Quest to Build the Perfect Team](read14b.md)    | 
 
 ## 301 Course
 
