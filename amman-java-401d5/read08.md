@@ -24,20 +24,6 @@ Get the product to early customers as soon as possible.
 
 Base for other products.
 
-### SOLID principles in real life
+### Minimum Viable Product
 
-* S - single responsibility principle - class or module should have only one reason to change
-
-Real life example - the "duck" vehicle are street legal and water-capable, and they only change from driving on land to going out on the water, and from being driven in the water to land.
-* O - open/closed principle - a class that does what it needs to flawlessly and does not need to be changed later, but can be extended.
-
-Real life example - a smart phone that doesn't need to be changed itself, but you can add apps on the phone.
-* L - liskov substitution principle - any child type of a parent type should be able to stand in for that parent
-
-Real life example - Cooking stew with various ingredients in the stew, while asking if the ingredients are edible or not.
-* I - interface segregation principle - don't want to force clients to depend on things they don't actually need
-
-Real life example - The soup of the day on a menu at a restuarant. The reason why it only says soup of the day is because it changes everyday.
-* D - dependency inversion - depends upon abstractions rather than upon concrete details
-
-Real life example - Using a credit card to pay groceries with, and the clerk swiping your credit card with a visa machine.
+Minimum Viable Product or MVP is a development technique in which a new product is introduced in the market with basic features, but enough to get the attention of the consumers. The final product is released in the market only after getting sufficient feedback from the product's initial users.
