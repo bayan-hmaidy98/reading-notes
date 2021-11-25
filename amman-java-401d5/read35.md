@@ -28,7 +28,7 @@ Disconnected: Some nodes may be not connected to others.
 
 To understand the acyclic, let's see what exactly cyclic means. Cyclic simply means a node started directing to other node and ended up redirected at too. This is not the case in acyclic. They are both directed graphs. 
 
-a## Graph Representation
+## Graph Representation
 
 1. Adjacency matrix
 
@@ -38,4 +38,16 @@ In matrix, we have columns and rows, when we have a position of row, column inde
 
 It's easied to implement the graphs using adjacency method. `An adjacency list is a collection of linked lists or array that lists all of the other vertices that are connected.`
 
+
+### Weighted Graphs
+
+Weighted graphs mean that each edge has weight.
+
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightGraph.PNG)
+
+ This is how would it look like in adjacency matrix and adjacency list respectivly: 
+
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightMatrix.PNG)
+
+![](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/weightList.PNG)
 
